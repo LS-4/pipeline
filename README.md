@@ -1,7 +1,7 @@
-s<h1 align="center">
+<h1 align="center">
+  A5
   <br>
-  A5: Open Astronomical CCD Processing Routines in Python
-  <br>
+  Open Astronomical CCD Processing Routines in Python
   <br>
   <img
     src="https://github.com/ls4-software/a5/blob/main/doc/_static/images/ccd.jpg?raw=true"

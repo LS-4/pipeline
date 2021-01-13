@@ -2,6 +2,7 @@
   <br>
   A5
   <br>
+  <br>
   <img
     src="https://github.com/ls4-software/a5/blob/main/doc/_static/images/ccd.png?raw=true"
     alt="CCD"

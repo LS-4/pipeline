@@ -1,4 +1,4 @@
-<h1 align="center">
+<h2 align="center">
   A5
   <br>
   Open Astronomical CCD Processing Routines in Python
@@ -15,7 +15,7 @@
     width="300px"
     height="300px"       
   />
-</h1>
+</h2>
 
 <p>
   <span style="font-size: 180%;">

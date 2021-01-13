@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  A5
+  A5: Open Astronomical CCD Processing Routines in Python
   <br>
   <br>
   <img
@@ -8,17 +8,12 @@
     alt="CCD"
     width="300px"
   />
-  <br>
   <img 
     src="https://github.com/ls4-software/a5/blob/main/doc/_static/images/m31.png?raw=true"
     alt="M31"
     width="300px"
   />
 </h1>
-
-<h2 align="center">
-Open Astronomical CCD Processing Routines in Python
-</h2>
 
 <p>
   <span style="font-size: 180%;">
